@@ -1,0 +1,16 @@
+.container-form {
+    max-width: 35%; /* Ocupa solo la mitad de la pantalla */
+    margin: auto; /* Centro horizontalmente */
+    margin-top: 50px; /* Ajusta según tus necesidades para el espacio en la parte superior */
+    padding: 50px; /* Agrega espacio interno */
+    border: 5px solid #b3d7f9; /* Borde */
+    border-radius: 100px; /* Esquinas redondeadas */
+    background-color: #d9ebf7;
+    font-size: medium;
+}
+.form-control{
+   
+    padding: 15px;
+    font-size: medium;
+    left: 0.8px;
+}
